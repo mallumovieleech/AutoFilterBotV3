@@ -1,5 +1,5 @@
 {
-    "name": "Auto Filter Bot V3",
+    "name": "EMPURAN Bot V6.9.2",
     "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
     "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/mallumovieleech/AutoFilterBotV3",
+    "repository": "https://github.com/mallumovieleech/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
