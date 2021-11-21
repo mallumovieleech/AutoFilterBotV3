@@ -28,10 +28,9 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name : EMPURAN V6.2.9
+➥ Name : <b>EMPURAN</b> V6.2.9
     
-➥ Creator : [ZKP143](
-https://t.me/ZKP143)
+➥ Creator : [ZKP143](https://t.me/ZKP143)
 
 ➥ Language : Python4
 
