@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name : EMPURAN V6.2.9
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [ZKP143](
+https://t.me/ZKP143)
 
-➥ Language : Python3
+➥ Language : Python4
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Library : Pyrogram Asyncio 3.9.5
 
 ➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
 """
