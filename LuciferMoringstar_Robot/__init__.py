@@ -37,5 +37,5 @@ https://t.me/ZKP143)
 
 ➥ Library : Pyrogram Asyncio 3.9.5
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/joinchat/21-626z8Zko3YWU1)
 """
