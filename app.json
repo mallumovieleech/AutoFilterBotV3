@@ -51,7 +51,7 @@
         "START_MSG": {
             "description": "Welcome message for start command",
             "value": "Hi, I'm <b>EMPURAN</b> With Greater Abilities",
-            "required": false
+            "required": true
         },
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
